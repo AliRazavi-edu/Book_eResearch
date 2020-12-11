@@ -3,6 +3,12 @@ E-Research: Methods, Strategies, and Issues 1st Edition
 
 
 <div dir="rtl">
+  
+> ## نمونه کتاب با لاتک 
+- **راهنمایی** : نمونه کتاب دارای گراف و فرمول 
+       - [**Book of Algorithmic Graph Theory**](https://github.com/jonasagx/graphbook)
+ 
+    
 
 <a name="Latex"></a>
 <details>
@@ -25,5 +31,9 @@ E-Research: Methods, Strategies, and Issues 1st Edition
 [<kbd>↩</kbd>](#TOC)
 
 </details>
+
+
+
+
 
 </div>
