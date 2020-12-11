@@ -27,7 +27,7 @@ E-Research: Methods, Strategies, and Issues 1st Edition
 - [overleaf سایت ](https://www.overleaf.com/)
 - [Fast math typesetting for the web](https://katex.org/)
 
-> ## تک لایو
+> ## نصب نرم افزارهای مورد نیاز لاتک : مجموعه تک لایو
 - [دانلود تک لایو با حجم 4 گیگ](http://ctan.yazd.ac.ir/systems/texlive/Images/texlive2020-20200406.iso)
     - [سایت دانشگاه یزد برای دانلود آخرین نسخه](http://ctan.yazd.ac.ir/systems/texlive/Images/)
 
