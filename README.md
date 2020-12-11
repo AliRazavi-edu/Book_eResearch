@@ -2,6 +2,8 @@
 E-Research: Methods, Strategies, and Issues 1st Edition
 
 
+<div dir="rtl">
+
 <a name="Latex"></a>
 <details>
     <summary>لاتک</summary>
@@ -23,3 +25,5 @@ E-Research: Methods, Strategies, and Issues 1st Edition
 [<kbd>↩</kbd>](#TOC)
 
 </details>
+
+</div>
