@@ -24,9 +24,16 @@
 - [فیلم آموزش لتکس LaTeX و ایجاد اولین پروژه](https://faradars.org/courses/mvrtex9201a-introduction-of-latex-and-first-project)
 - [LaTeX آموزش زبان اصلی  ](https://git.ir/packtpub-latex-for-everyone-and-everything/)
 - [QA ParsiLatex](http://qa.parsilatex.com/)
+
 > ## صفحه آرایی برخط بدون نصب لاتک
 - [overleaf سایت ](https://www.overleaf.com/)
 - [Fast math typesetting for the web](https://katex.org/)
+
+> ## ساخت ارائه با لاتک
+- [beamer-tutorial](http://web.mit.edu/rsi/www/pdfs/beamer-tutorial.pdf)
+    - [**A collection of custom Beamer themes**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list)
+    - [**A clean, simple and extensible template for presentations. Supports XeTeX and Beamer**](https://github.com/RatulSaha/presento)
+    - [**A simple, minimalistic Beamer theme to keep eyes on the content**](https://github.com/martinbjeldbak/beamertheme-bjeldbak)
 
 > ## نصب نرم افزارهای مورد نیاز لاتک : مجموعه تک لایو
 - [دانلود تک لایو با حجم 4 گیگ](http://ctan.yazd.ac.ir/systems/texlive/Images/texlive2020-20200406.iso)
